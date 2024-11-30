@@ -1,0 +1,7 @@
+Quebec 2015 10.90
+Quebec 2016 9.82
+Quebec 2017 9.58
+Quebec 2018 10.65
+Quebec 2019 10.48
+Quebec 2020 9.52
+Quebec 2021 10.47
